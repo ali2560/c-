@@ -1,0 +1,9 @@
+c:\users\ali\documents\visual studio 2015\Projects\ReadSerial\ReadSerial\bin\Debug\ReadSerial.exe.config
+c:\users\ali\documents\visual studio 2015\Projects\ReadSerial\ReadSerial\bin\Debug\ReadSerial.exe
+c:\users\ali\documents\visual studio 2015\Projects\ReadSerial\ReadSerial\bin\Debug\ReadSerial.pdb
+c:\users\ali\documents\visual studio 2015\Projects\ReadSerial\ReadSerial\obj\Debug\ReadSerial.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2015\Projects\ReadSerial\ReadSerial\obj\Debug\ReadSerial.Form1.resources
+c:\users\ali\documents\visual studio 2015\Projects\ReadSerial\ReadSerial\obj\Debug\ReadSerial.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2015\Projects\ReadSerial\ReadSerial\obj\Debug\ReadSerial.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2015\Projects\ReadSerial\ReadSerial\obj\Debug\ReadSerial.exe
+c:\users\ali\documents\visual studio 2015\Projects\ReadSerial\ReadSerial\obj\Debug\ReadSerial.pdb
